@@ -1,4 +1,4 @@
-﻿빌드 시작: 2015-03-11 오후 10:02:34
+﻿빌드 시작: 2015-04-15 오후 4:05:44
      1>2 노드의 "C:\Users\ccacompany\documents\visual studio 2013\Projects\DS2.HW1\DS2.HW1.C2\DS2.HW1.C2.vcxproj" 프로젝트(Build 대상)입니다.
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DS2.HW1.C2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DS2.HW1.C2.cpp
@@ -11,4 +11,4 @@
 
 빌드했습니다.
 
-경과 시간: 00:00:00.56
+경과 시간: 00:00:01.30
